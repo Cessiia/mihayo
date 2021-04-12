@@ -1,2 +1,2 @@
 # mihayo
-this is a magic game repository in mini programe for wechat
+this is a magic game repository in mini program for wechat
